@@ -9,5 +9,5 @@ This Python script calculates the simple interest based on the provided principa
 - `r`: Annual rate of interest
 
 ## Output:
-- `Simple interest = p * t * r`
+- `Simple interest = p * t * r` 
 
